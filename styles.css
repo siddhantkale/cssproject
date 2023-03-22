@@ -44,6 +44,9 @@ p{
     left:300px;
     bottom:350px;
 }
+.mountain{
+width:30%;
+}
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
